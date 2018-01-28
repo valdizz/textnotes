@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Text Notes</string>
+    <string name="title_note_detail">Note Detail</string>
+    <string name="note_title">Note Title</string>
+    <string name="note_text">Note Text</string>
+    <string name="add_note">Add note</string>
+    <string name="edit_note">Edit note</string>
+    <string name="empty_note">Note should not be empty!</string>
+    <string name="dialog_deletenote">Delete this note?</string>
+</resources>

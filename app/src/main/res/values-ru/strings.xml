@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Заметки</string>
+    <string name="title_note_detail">Заметка</string>
+    <string name="note_title">Заголовок</string>
+    <string name="note_text">Содержание</string>
+    <string name="add_note">Добавить заметку</string>
+    <string name="edit_note">Редактировать заметку</string>
+    <string name="empty_note">Заметка не должна быть пустой!</string>
+    <string name="dialog_deletenote">Удалить заметку?</string>
+</resources>
